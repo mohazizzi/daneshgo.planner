@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/daneshgo.planner/static/css/main.ee8054a5.css",
-    "main.js": "/daneshgo.planner/static/js/main.1713a45f.js",
+    "main.css": "/daneshgo.planner/static/css/main.fa05ad92.css",
+    "main.js": "/daneshgo.planner/static/js/main.78b7b4bc.js",
     "static/media/IRANSans-Light-web.ttf": "/daneshgo.planner/static/media/IRANSans-Light-web.71f8e92a06de4f9a6039.ttf",
     "static/media/IRANSans-Bold-web.ttf": "/daneshgo.planner/static/media/IRANSans-Bold-web.ac55ea1ecefe68435f37.ttf",
     "static/media/IRANSans-Medium-web.ttf": "/daneshgo.planner/static/media/IRANSans-Medium-web.3dc441d156b7f822c46c.ttf",
@@ -16,11 +16,11 @@
     "static/media/IRANSans-Medium-web.woff2": "/daneshgo.planner/static/media/IRANSans-Medium-web.a06ef2cd32bddeaf44c3.woff2",
     "static/media/schedule_example.png": "/daneshgo.planner/static/media/schedule_example.efe175e524a15004dac6.png",
     "index.html": "/daneshgo.planner/index.html",
-    "main.ee8054a5.css.map": "/daneshgo.planner/static/css/main.ee8054a5.css.map",
-    "main.1713a45f.js.map": "/daneshgo.planner/static/js/main.1713a45f.js.map"
+    "main.fa05ad92.css.map": "/daneshgo.planner/static/css/main.fa05ad92.css.map",
+    "main.78b7b4bc.js.map": "/daneshgo.planner/static/js/main.78b7b4bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee8054a5.css",
-    "static/js/main.1713a45f.js"
+    "static/css/main.fa05ad92.css",
+    "static/js/main.78b7b4bc.js"
   ]
 }
