@@ -8,6 +8,7 @@ import Layout from "./components/Layout/Layout";
 import Welcome from "./pages/welcome/Welcome";
 import Login from "./pages/auth/Login";
 import Register from "./pages/auth/Register";
+import User from "./pages/user/User";
 
 // MdAdminPanelSettings
 
@@ -31,6 +32,7 @@ function App() {
         <Route index element={<Welcome />} />
         <Route path="login" element={<Login />} />
         <Route path="register" element={<Register />} />
+        <Route path="user" element={<User />} />
       </Route>
     </Routes>
 
