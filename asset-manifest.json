@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/daneshgo.planner/static/css/main.ee8054a5.css",
+    "main.js": "/daneshgo.planner/static/js/main.1713a45f.js",
+    "static/media/IRANSans-Light-web.ttf": "/daneshgo.planner/static/media/IRANSans-Light-web.71f8e92a06de4f9a6039.ttf",
+    "static/media/IRANSans-Bold-web.ttf": "/daneshgo.planner/static/media/IRANSans-Bold-web.ac55ea1ecefe68435f37.ttf",
+    "static/media/IRANSans-Medium-web.ttf": "/daneshgo.planner/static/media/IRANSans-Medium-web.3dc441d156b7f822c46c.ttf",
+    "static/media/IRANSans-Light-web.woff": "/daneshgo.planner/static/media/IRANSans-Light-web.0057181b7ea25b0bbc51.woff",
+    "static/media/IRANSans-Bold-web.woff": "/daneshgo.planner/static/media/IRANSans-Bold-web.955d345afd75e29acf58.woff",
+    "static/media/IRANSans-Medium-web.woff": "/daneshgo.planner/static/media/IRANSans-Medium-web.2e0a8cc4201444f12ead.woff",
+    "static/media/IRANSans-Light-web.eot": "/daneshgo.planner/static/media/IRANSans-Light-web.9f1489d9f1456a7e8836.eot",
+    "static/media/IRANSans-Bold-web.eot": "/daneshgo.planner/static/media/IRANSans-Bold-web.3e2c7e98b62e7800bd63.eot",
+    "static/media/IRANSans-Medium-web.eot": "/daneshgo.planner/static/media/IRANSans-Medium-web.5e7d6844cacde4e33514.eot",
+    "static/media/IRANSans-Light-web.woff2": "/daneshgo.planner/static/media/IRANSans-Light-web.449497382fb8cac671e7.woff2",
+    "static/media/IRANSans-Bold-web.woff2": "/daneshgo.planner/static/media/IRANSans-Bold-web.3bd2766ae1257b5afe3d.woff2",
+    "static/media/IRANSans-Medium-web.woff2": "/daneshgo.planner/static/media/IRANSans-Medium-web.a06ef2cd32bddeaf44c3.woff2",
+    "static/media/schedule_example.png": "/daneshgo.planner/static/media/schedule_example.efe175e524a15004dac6.png",
+    "index.html": "/daneshgo.planner/index.html",
+    "main.ee8054a5.css.map": "/daneshgo.planner/static/css/main.ee8054a5.css.map",
+    "main.1713a45f.js.map": "/daneshgo.planner/static/js/main.1713a45f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee8054a5.css",
+    "static/js/main.1713a45f.js"
+  ]
+}
