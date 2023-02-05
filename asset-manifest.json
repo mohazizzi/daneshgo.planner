@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/daneshgo.planner/static/css/main.fa05ad92.css",
-    "main.js": "/daneshgo.planner/static/js/main.78b7b4bc.js",
+    "main.css": "/daneshgo.planner/static/css/main.718dc94d.css",
+    "main.js": "/daneshgo.planner/static/js/main.db942f9b.js",
+    "static/css/908.088196d7.chunk.css": "/daneshgo.planner/static/css/908.088196d7.chunk.css",
+    "static/js/908.99bd3778.chunk.js": "/daneshgo.planner/static/js/908.99bd3778.chunk.js",
+    "static/css/738.dcf82dbb.chunk.css": "/daneshgo.planner/static/css/738.dcf82dbb.chunk.css",
+    "static/js/738.a5942491.chunk.js": "/daneshgo.planner/static/js/738.a5942491.chunk.js",
+    "static/css/198.dcf82dbb.chunk.css": "/daneshgo.planner/static/css/198.dcf82dbb.chunk.css",
+    "static/js/198.422612b4.chunk.js": "/daneshgo.planner/static/js/198.422612b4.chunk.js",
+    "static/js/802.27d4667f.chunk.js": "/daneshgo.planner/static/js/802.27d4667f.chunk.js",
+    "static/js/36.8cbf667b.chunk.js": "/daneshgo.planner/static/js/36.8cbf667b.chunk.js",
     "static/media/IRANSans-Light-web.ttf": "/daneshgo.planner/static/media/IRANSans-Light-web.71f8e92a06de4f9a6039.ttf",
     "static/media/IRANSans-Bold-web.ttf": "/daneshgo.planner/static/media/IRANSans-Bold-web.ac55ea1ecefe68435f37.ttf",
     "static/media/IRANSans-Medium-web.ttf": "/daneshgo.planner/static/media/IRANSans-Medium-web.3dc441d156b7f822c46c.ttf",
     "static/media/IRANSans-Light-web.woff": "/daneshgo.planner/static/media/IRANSans-Light-web.0057181b7ea25b0bbc51.woff",
     "static/media/IRANSans-Bold-web.woff": "/daneshgo.planner/static/media/IRANSans-Bold-web.955d345afd75e29acf58.woff",
     "static/media/IRANSans-Medium-web.woff": "/daneshgo.planner/static/media/IRANSans-Medium-web.2e0a8cc4201444f12ead.woff",
+    "static/media/mohazizzi_logo.png": "/daneshgo.planner/static/media/mohazizzi_logo.1ccc8afd5b509465ed57.png",
     "static/media/IRANSans-Light-web.eot": "/daneshgo.planner/static/media/IRANSans-Light-web.9f1489d9f1456a7e8836.eot",
     "static/media/IRANSans-Bold-web.eot": "/daneshgo.planner/static/media/IRANSans-Bold-web.3e2c7e98b62e7800bd63.eot",
     "static/media/IRANSans-Medium-web.eot": "/daneshgo.planner/static/media/IRANSans-Medium-web.5e7d6844cacde4e33514.eot",
@@ -16,11 +25,19 @@
     "static/media/IRANSans-Medium-web.woff2": "/daneshgo.planner/static/media/IRANSans-Medium-web.a06ef2cd32bddeaf44c3.woff2",
     "static/media/schedule_example.png": "/daneshgo.planner/static/media/schedule_example.efe175e524a15004dac6.png",
     "index.html": "/daneshgo.planner/index.html",
-    "main.fa05ad92.css.map": "/daneshgo.planner/static/css/main.fa05ad92.css.map",
-    "main.78b7b4bc.js.map": "/daneshgo.planner/static/js/main.78b7b4bc.js.map"
+    "main.718dc94d.css.map": "/daneshgo.planner/static/css/main.718dc94d.css.map",
+    "main.db942f9b.js.map": "/daneshgo.planner/static/js/main.db942f9b.js.map",
+    "908.088196d7.chunk.css.map": "/daneshgo.planner/static/css/908.088196d7.chunk.css.map",
+    "908.99bd3778.chunk.js.map": "/daneshgo.planner/static/js/908.99bd3778.chunk.js.map",
+    "738.dcf82dbb.chunk.css.map": "/daneshgo.planner/static/css/738.dcf82dbb.chunk.css.map",
+    "738.a5942491.chunk.js.map": "/daneshgo.planner/static/js/738.a5942491.chunk.js.map",
+    "198.dcf82dbb.chunk.css.map": "/daneshgo.planner/static/css/198.dcf82dbb.chunk.css.map",
+    "198.422612b4.chunk.js.map": "/daneshgo.planner/static/js/198.422612b4.chunk.js.map",
+    "802.27d4667f.chunk.js.map": "/daneshgo.planner/static/js/802.27d4667f.chunk.js.map",
+    "36.8cbf667b.chunk.js.map": "/daneshgo.planner/static/js/36.8cbf667b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa05ad92.css",
-    "static/js/main.78b7b4bc.js"
+    "static/css/main.718dc94d.css",
+    "static/js/main.db942f9b.js"
   ]
 }
