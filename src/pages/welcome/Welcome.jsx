@@ -26,7 +26,7 @@ const Welcome = () => {
         <p className="welcome_main_text">{welcomContent.body}</p>
       </main>
       <footer className="welcome_footer">
-        <Link to="/login" className="welcome_footer_link">
+        <Link to="/dash" className="welcome_footer_link">
           {welcomContent.footer}
         </Link>
       </footer>

@@ -1,8 +1,8 @@
-import "./user.css";
+import "./dash.css";
 import { HiTrash } from "react-icons/hi";
 import { AiFillEdit } from "react-icons/ai";
 
-const UserLessons = ({ lesson, handleDelete, handleEdite }) => {
+const DashLesson = ({ lesson, handleDelete, handleEdite }) => {
   const lessonColor = {
     backgroundColor: lesson.color,
   };
@@ -33,4 +33,4 @@ const UserLessons = ({ lesson, handleDelete, handleEdite }) => {
   );
 };
 
-export default UserLessons;
+export default DashLesson;

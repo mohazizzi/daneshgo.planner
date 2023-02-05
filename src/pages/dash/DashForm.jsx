@@ -1,20 +1,23 @@
-import "./user.css";
+import "./dash.css";
+import { TiArrowBack } from "react-icons/ti";
 
-const UserForm = ({
-  closeForm,
+const DashForm = ({
+  error,
   formData,
   handleChange,
   onSubmit,
   buttonText,
+  title,
+  backToDashPage,
 }) => {
   return (
-    <form className="user_form" onSubmit={onSubmit}>
-      <button type="button" className="user_form_close-btn" onClick={closeForm}>
-        X
+    <form className="dash_form" onSubmit={onSubmit}>
+      <button className="dash_form_back" onClick={backToDashPage}>
+        <TiArrowBack />
       </button>
-      <h4 className="user_form_title section-title">افزودن درس جدید</h4>
+      <h4 className="dash_form_title section-title">{title}</h4>
       <input
-        className="user_form_input"
+        className="dash_form_input"
         type="text"
         placeholder="نام درس..."
         name="name"
@@ -22,7 +25,7 @@ const UserForm = ({
         onChange={handleChange}
       />
       <select
-        className="user_form_section"
+        className="dash_form_section"
         name="day"
         value={formData.day}
         onChange={handleChange}
@@ -37,7 +40,7 @@ const UserForm = ({
         <option value="جمعه">جمعه</option>
       </select>
       <select
-        className="user_form_section"
+        className="dash_form_section"
         name="startTime"
         value={formData.startTime}
         onChange={handleChange}
@@ -58,7 +61,7 @@ const UserForm = ({
         <option value="20">20</option>
       </select>
       <select
-        className="user_form_section"
+        className="dash_form_section"
         name="endTime"
         value={formData.endTime}
         onChange={handleChange}
@@ -79,7 +82,7 @@ const UserForm = ({
         <option value="20">20</option>
       </select>
       <select
-        className="user_form_section"
+        className="dash_form_section"
         name="color"
         value={formData.color}
         onChange={handleChange}
@@ -97,9 +100,10 @@ const UserForm = ({
         <option value="#B0CAC7">سبز روشن</option>
         <option value="#D7C1E0">صورتی</option>
       </select>
+      {error && <p className="form_error">لطفا تمامی فیلدها را پر کنید!</p>}
       <button className="add-new-btn">{buttonText}</button>
     </form>
   );
 };
 
-export default UserForm;
+export default DashForm;

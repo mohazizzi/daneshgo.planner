@@ -1,0 +1,278 @@
+.dash {
+  height: 100vh;
+  height: -webkit-fill-available;
+  overflow: hidden;
+}
+.dash_header_title {
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 0.8rem auto;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid #1aa37a;
+  width: 200px;
+}
+.dash_main {
+  padding: 0.5rem;
+  max-height: 85vh;
+  overflow-y: scroll;
+}
+.dash_footer {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+}
+.dash_footer_toggler {
+  position: relative;
+  z-index: 1000;
+  background-color: #1aa37a;
+  background-image: linear-gradient(45deg, #1aa37a, #9dffb3);
+  color: var(--color-neutral-800);
+  cursor: pointer;
+  border: none;
+  font-size: 1.5rem;
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-content: center;
+  border-radius: 50%;
+}
+.dash_footer_menu {
+  list-style: none;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+.dash_footer_menu_item {
+  position: absolute;
+  bottom: -30px;
+  transition: all 0.3s linear;
+}
+.dash_footer_menu_item_link {
+  background-color: #1aa37a;
+  background-image: linear-gradient(45deg, #1aa37a, #9dffb3);
+  color: var(--color-neutral-800);
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-content: center;
+  border-radius: 50%;
+}
+.bottom-1 {
+  bottom: 15px;
+}
+.bottom-2 {
+  bottom: 55px;
+}
+/*==============Lesson===================*/
+.lesson {
+  opacity: 0.7;
+  color: var(--color-neutral-800);
+  padding: 0.3rem;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+.lesson_info_title {
+  font-family: iransans-bold;
+}
+.lesson_info_day {
+  font-size: 0.8rem;
+}
+.lesson_btn-group {
+  display: flex;
+  gap: 5px;
+}
+.lesson_btn-group_edit,
+.lesson_btn-group_delete {
+  border: none;
+  font-size: 0.9rem;
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  cursor: pointer;
+  display: grid;
+  place-content: center;
+  background-color: var(--bg);
+  color: var(--text-color);
+  opacity: 0.9;
+}
+/*==============Lesson end===================*/
+/*==============Form===================*/
+.dash_form {
+  background-color: var(--bg);
+  padding: 0.5rem;
+  max-width: 300px;
+  margin: 0 auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+}
+.form_error {
+  color: var(--color-danger);
+  font-size: 0.8rem;
+}
+.dash_form_back {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  font-size: 2rem;
+  color: #1aa37a;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.dash_form_title {
+  text-align: center;
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+}
+.add-new-btn {
+  font-size: 0.9rem;
+  cursor: pointer;
+  background-color: #1aa37a;
+  background-image: linear-gradient(45deg, #1aa37a, #9dffb3);
+  border-radius: 10px;
+  border: none;
+  margin-top: 1rem;
+  padding: 0.2rem 0.5rem;
+}
+.dash_form_input {
+  background-color: transparent;
+  border: 2px solid #1aa37a;
+  border-radius: 10px;
+  padding: 0.3rem;
+  color: var(--text-color);
+  outline: none;
+}
+.dash_form_section {
+  background-color: var(--bg);
+  border: 2px solid #1aa37a;
+  border-radius: 10px;
+  padding: 0.3rem;
+  color: var(--text-color);
+}
+/*==============Form end===================*/
+/* =============Schedule================= */
+.schedule {
+  background-color: #1c1d25;
+  margin-top: 40rem;
+  font-size: 1.3rem;
+  width: fit-content;
+}
+.schedule_header {
+  margin: 1rem auto;
+  width: 1210px;
+  height: 60px;
+  background-color: #000;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: #b0b2c3;
+}
+.schedule_header_weekdays {
+  background-color: #15151a;
+  height: 50px;
+  width: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+.schedule_header_hours {
+  position: relative;
+  background-color: #15151a;
+  height: 50px;
+  width: 1080px;
+  border-radius: 10px;
+}
+.schedule_header_hours span {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.span1 {
+  right: 0px;
+}
+.span2 {
+  right: 90px;
+}
+.span3 {
+  right: 180px;
+}
+.span4 {
+  right: 270px;
+}
+.span5 {
+  right: 360px;
+}
+.span6 {
+  right: 450px;
+}
+.span7 {
+  right: 540px;
+}
+.span8 {
+  right: 630px;
+}
+.span9 {
+  right: 720px;
+}
+.span10 {
+  right: 810px;
+}
+.span11 {
+  right: 900px;
+}
+.span12 {
+  right: 990px;
+}
+/* ------------------------- */
+.schedule_body {
+  margin: 0 auto 1rem auto;
+  width: 1210px;
+  height: 60px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.schedule_body_weekdays {
+  background-color: #15151a;
+  color: #b0b2c3;
+  height: 50px;
+  width: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+.schedule_body_hours {
+  position: relative;
+  background-color: #15151a;
+  color: #000;
+  height: 50px;
+  width: 1080px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+/* -------------------------- */
+.task {
+  position: absolute;
+  height: 100%;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  font-size: 1rem;
+}
+/* =============Schedule end================= */
