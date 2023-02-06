@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/daneshgo.planner/static/css/main.718dc94d.css",
-    "main.js": "/daneshgo.planner/static/js/main.db942f9b.js",
-    "static/css/908.088196d7.chunk.css": "/daneshgo.planner/static/css/908.088196d7.chunk.css",
-    "static/js/908.99bd3778.chunk.js": "/daneshgo.planner/static/js/908.99bd3778.chunk.js",
-    "static/css/738.dcf82dbb.chunk.css": "/daneshgo.planner/static/css/738.dcf82dbb.chunk.css",
+    "main.css": "/daneshgo.planner/static/css/main.8467c751.css",
+    "main.js": "/daneshgo.planner/static/js/main.53d6758e.js",
+    "static/css/908.366eb307.chunk.css": "/daneshgo.planner/static/css/908.366eb307.chunk.css",
+    "static/js/908.a364f2b0.chunk.js": "/daneshgo.planner/static/js/908.a364f2b0.chunk.js",
+    "static/css/738.9d8e4291.chunk.css": "/daneshgo.planner/static/css/738.9d8e4291.chunk.css",
     "static/js/738.a5942491.chunk.js": "/daneshgo.planner/static/js/738.a5942491.chunk.js",
-    "static/css/198.dcf82dbb.chunk.css": "/daneshgo.planner/static/css/198.dcf82dbb.chunk.css",
+    "static/css/198.9d8e4291.chunk.css": "/daneshgo.planner/static/css/198.9d8e4291.chunk.css",
     "static/js/198.422612b4.chunk.js": "/daneshgo.planner/static/js/198.422612b4.chunk.js",
     "static/js/802.27d4667f.chunk.js": "/daneshgo.planner/static/js/802.27d4667f.chunk.js",
     "static/js/36.8cbf667b.chunk.js": "/daneshgo.planner/static/js/36.8cbf667b.chunk.js",
@@ -25,19 +25,19 @@
     "static/media/IRANSans-Medium-web.woff2": "/daneshgo.planner/static/media/IRANSans-Medium-web.a06ef2cd32bddeaf44c3.woff2",
     "static/media/schedule_example.png": "/daneshgo.planner/static/media/schedule_example.efe175e524a15004dac6.png",
     "index.html": "/daneshgo.planner/index.html",
-    "main.718dc94d.css.map": "/daneshgo.planner/static/css/main.718dc94d.css.map",
-    "main.db942f9b.js.map": "/daneshgo.planner/static/js/main.db942f9b.js.map",
-    "908.088196d7.chunk.css.map": "/daneshgo.planner/static/css/908.088196d7.chunk.css.map",
-    "908.99bd3778.chunk.js.map": "/daneshgo.planner/static/js/908.99bd3778.chunk.js.map",
-    "738.dcf82dbb.chunk.css.map": "/daneshgo.planner/static/css/738.dcf82dbb.chunk.css.map",
+    "main.8467c751.css.map": "/daneshgo.planner/static/css/main.8467c751.css.map",
+    "main.53d6758e.js.map": "/daneshgo.planner/static/js/main.53d6758e.js.map",
+    "908.366eb307.chunk.css.map": "/daneshgo.planner/static/css/908.366eb307.chunk.css.map",
+    "908.a364f2b0.chunk.js.map": "/daneshgo.planner/static/js/908.a364f2b0.chunk.js.map",
+    "738.9d8e4291.chunk.css.map": "/daneshgo.planner/static/css/738.9d8e4291.chunk.css.map",
     "738.a5942491.chunk.js.map": "/daneshgo.planner/static/js/738.a5942491.chunk.js.map",
-    "198.dcf82dbb.chunk.css.map": "/daneshgo.planner/static/css/198.dcf82dbb.chunk.css.map",
+    "198.9d8e4291.chunk.css.map": "/daneshgo.planner/static/css/198.9d8e4291.chunk.css.map",
     "198.422612b4.chunk.js.map": "/daneshgo.planner/static/js/198.422612b4.chunk.js.map",
     "802.27d4667f.chunk.js.map": "/daneshgo.planner/static/js/802.27d4667f.chunk.js.map",
     "36.8cbf667b.chunk.js.map": "/daneshgo.planner/static/js/36.8cbf667b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.718dc94d.css",
-    "static/js/main.db942f9b.js"
+    "static/css/main.8467c751.css",
+    "static/js/main.53d6758e.js"
   ]
 }
