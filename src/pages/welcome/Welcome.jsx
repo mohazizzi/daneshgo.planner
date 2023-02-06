@@ -29,6 +29,17 @@ const Welcome = () => {
         <Link to="/dash" className="welcome_footer_link">
           {welcomContent.footer}
         </Link>
+        <p className="welcome_footer_cta">
+          ساخته شده توسط
+          <a
+            href="https://mohazizzi.ir/"
+            target="_blank"
+            rel="noreferrer"
+            className="welcome_footer_cta_link"
+          >
+            mohazizzi.ir
+          </a>
+        </p>
       </footer>
     </section>
   );

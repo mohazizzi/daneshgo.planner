@@ -59,3 +59,16 @@
     width: 100%;
   }
 }
+.welcome_footer_cta {
+  width: 250px;
+  text-align: center;
+  font-size: 0.8rem;
+  position: fixed;
+  bottom: 2rem;
+  right: 50%;
+  transform: translateX(50%);
+}
+.welcome_footer_cta_link {
+  color: #1aa37a;
+  padding: 0 0.2rem;
+}

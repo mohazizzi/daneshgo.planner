@@ -1,6 +1,5 @@
 .dash {
   height: 100vh;
-  height: -webkit-fill-available;
   overflow: hidden;
 }
 .dash_header_title {

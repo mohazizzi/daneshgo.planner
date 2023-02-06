@@ -75,7 +75,6 @@ a{
 .container {
   width: 600px;
   height: 100vh;
-  height: -webkit-fill-available;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
