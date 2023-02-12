@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mohazizzi.ir/daneshgo.planner/",
-  "name": "client",
+  "homepage": "https://uni-planner.ir",
+  "name": "uni-planner",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
