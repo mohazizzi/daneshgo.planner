@@ -1,7 +1,6 @@
 import "./App.css";
-import { lazy, Suspense } from "react";
+import { lazy, Suspense, useState } from "react";
 import { Route, Routes, useNavigate } from "react-router-dom";
-import { useState } from "react";
 import html2canvas from "html2canvas";
 // components
 import Loader from "./components/loader/Loader";
