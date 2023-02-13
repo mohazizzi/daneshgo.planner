@@ -1,3 +1,3 @@
 # daneshgo planner
 
-[Live Demo](https://mohazizzi.github.io/daneshgo.planner/)
+[Live Demo](https://uni-planner.ir/)
