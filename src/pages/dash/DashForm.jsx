@@ -10,8 +10,12 @@ const DashForm = ({
   title,
   backToDashPage,
 }) => {
+  const maxHeight = {
+    height: window.innerHeight,
+  };
+
   return (
-    <form className="dash_form" onSubmit={onSubmit}>
+    <form className="dash_form" onSubmit={onSubmit} style={maxHeight}>
       <button className="dash_form_back" onClick={backToDashPage}>
         <TiArrowBack />
       </button>
