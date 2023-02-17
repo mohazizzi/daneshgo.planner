@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.142686ea.css",
-    "main.js": "/static/js/main.7791bfd5.js",
+    "main.js": "/static/js/main.9debb891.js",
     "static/css/908.57aabd3c.chunk.css": "/static/css/908.57aabd3c.chunk.css",
     "static/js/908.7ad4a0b5.chunk.js": "/static/js/908.7ad4a0b5.chunk.js",
     "static/css/738.983912d4.chunk.css": "/static/css/738.983912d4.chunk.css",
     "static/js/738.b910147d.chunk.js": "/static/js/738.b910147d.chunk.js",
     "static/css/198.983912d4.chunk.css": "/static/css/198.983912d4.chunk.css",
-    "static/js/198.16338180.chunk.js": "/static/js/198.16338180.chunk.js",
+    "static/js/198.3726e38c.chunk.js": "/static/js/198.3726e38c.chunk.js",
     "static/js/802.5a100da0.chunk.js": "/static/js/802.5a100da0.chunk.js",
     "static/js/36.229d104e.chunk.js": "/static/js/36.229d104e.chunk.js",
     "static/media/IRANSans-Light-web.ttf": "/static/media/IRANSans-Light-web.71f8e92a06de4f9a6039.ttf",
@@ -26,18 +26,18 @@
     "static/media/schedule_example.png": "/static/media/schedule_example.efe175e524a15004dac6.png",
     "index.html": "/index.html",
     "main.142686ea.css.map": "/static/css/main.142686ea.css.map",
-    "main.7791bfd5.js.map": "/static/js/main.7791bfd5.js.map",
+    "main.9debb891.js.map": "/static/js/main.9debb891.js.map",
     "908.57aabd3c.chunk.css.map": "/static/css/908.57aabd3c.chunk.css.map",
     "908.7ad4a0b5.chunk.js.map": "/static/js/908.7ad4a0b5.chunk.js.map",
     "738.983912d4.chunk.css.map": "/static/css/738.983912d4.chunk.css.map",
     "738.b910147d.chunk.js.map": "/static/js/738.b910147d.chunk.js.map",
     "198.983912d4.chunk.css.map": "/static/css/198.983912d4.chunk.css.map",
-    "198.16338180.chunk.js.map": "/static/js/198.16338180.chunk.js.map",
+    "198.3726e38c.chunk.js.map": "/static/js/198.3726e38c.chunk.js.map",
     "802.5a100da0.chunk.js.map": "/static/js/802.5a100da0.chunk.js.map",
     "36.229d104e.chunk.js.map": "/static/js/36.229d104e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.142686ea.css",
-    "static/js/main.7791bfd5.js"
+    "static/js/main.9debb891.js"
   ]
 }
