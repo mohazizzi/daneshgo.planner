@@ -59,6 +59,10 @@ body {
 a{
     text-decoration: none;
 }
+button,
+a{
+  -webkit-tap-highlight-color: transparent;
+}
 .section-title{
     background-color: #1aa37a;
     background-image: linear-gradient(45deg, #1aa37a, #9dffb3);
