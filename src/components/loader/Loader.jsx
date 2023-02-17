@@ -2,8 +2,12 @@ import "./loader.css";
 import logo from "../../assets/img/mohazizzi_logo.png";
 
 const Loader = () => {
+  const maxHeight = {
+    height: window.innerHeight,
+  };
+
   return (
-    <div className="loader">
+    <div className="loader" style={maxHeight}>
       <div className="loader_container">
         <div className="loader_circle"></div>
       </div>

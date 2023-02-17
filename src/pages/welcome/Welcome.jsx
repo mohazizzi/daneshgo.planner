@@ -9,8 +9,12 @@ const welcomContent = {
 };
 
 const Welcome = () => {
+  const maxHeight = {
+    height: window.innerHeight,
+  };
+
   return (
-    <section className="welcome">
+    <section className="welcome" style={maxHeight}>
       <header className="welcome_header">
         <h1 className="welcome_header_title section-title">
           {welcomContent.header}

@@ -27,13 +27,26 @@ const Dash = ({
   };
   const [menu, setMenu] = useState(false);
   const toggleMenu = () => setMenu((prevState) => !prevState);
+
+  const maxHeight = {
+    height: window.innerHeight,
+  };
+
   return (
-    <div className="dash">
+    <div className="dash" style={maxHeight}>
       <div className="container">
         <header className="dash_header">
           <h1 className="dash_header_title section-title">لیست درس ها</h1>
         </header>
         <main className="dash_main">
+          {lessonsList.length === 0 && (
+            <div className="dash_main_empty">
+              <p className="dash_main_empty_title">لیست درسها خالی است!!</p>
+              <p className="dash_main_empty_sub">
+                لطفا درسهای خود را اضافه کنید
+              </p>
+            </div>
+          )}
           {lessonsList.map((lesson) => (
             <DashLesson
               key={lesson.id}
