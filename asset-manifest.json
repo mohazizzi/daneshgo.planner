@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.142686ea.css",
+    "main.css": "/static/css/main.4a5875ab.css",
     "main.js": "/static/js/main.9debb891.js",
     "static/css/908.57aabd3c.chunk.css": "/static/css/908.57aabd3c.chunk.css",
     "static/js/908.7ad4a0b5.chunk.js": "/static/js/908.7ad4a0b5.chunk.js",
@@ -25,7 +25,7 @@
     "static/media/IRANSans-Medium-web.woff2": "/static/media/IRANSans-Medium-web.a06ef2cd32bddeaf44c3.woff2",
     "static/media/schedule_example.png": "/static/media/schedule_example.efe175e524a15004dac6.png",
     "index.html": "/index.html",
-    "main.142686ea.css.map": "/static/css/main.142686ea.css.map",
+    "main.4a5875ab.css.map": "/static/css/main.4a5875ab.css.map",
     "main.9debb891.js.map": "/static/js/main.9debb891.js.map",
     "908.57aabd3c.chunk.css.map": "/static/css/908.57aabd3c.chunk.css.map",
     "908.7ad4a0b5.chunk.js.map": "/static/js/908.7ad4a0b5.chunk.js.map",
@@ -37,7 +37,7 @@
     "36.229d104e.chunk.js.map": "/static/js/36.229d104e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.142686ea.css",
+    "static/css/main.4a5875ab.css",
     "static/js/main.9debb891.js"
   ]
 }
